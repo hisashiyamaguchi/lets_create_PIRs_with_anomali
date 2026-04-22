@@ -1,8 +1,9 @@
-# Let's create your PIRs with Anomali ThreatStream Next-Gen
+# Let's create PIRs with Anomali ThreatStream Next-Gen
 Priority Intelligence Requirements (PIRs) serve as the strategic foundation of any effective CTI program, ensuring that analyst effort and collection resources are directed toward the threats that matter most to the organization. Without clearly defined PIRs, security teams risk producing generic, unfocused intelligence that fails to inform real decision-making across SOC, IR, and executive stakeholders.
 <br>
 
 The article here is a quick guide how you can implement your PIRs with ThreatStream Next-Gen - Let’s get started!
+<br>
 <br>
 
 
@@ -14,12 +15,14 @@ First of all, you need to create a priority intelligence questions list tailored
 </div>
 <br>
 <br>
+<br>
 
 Hit *Template Management* tab on the top left, and hit *New Template* on the top right. Put an appropriate template name on the *Template Name* box, and put an appropriate description on the *Description* box. Define the report section and put those on *Sections* box, and hit *Create Template*.
 <br>
 <div align="center">
 <img src="./images/2.png" width=50%>
 </div>
+<br>
 <br>
 <br>
 
@@ -31,12 +34,14 @@ After successful creation, you may see your reporting template. Let’s ask Copi
 </div>
 <br>
 <br>
+<br>
 
 Copilot is going to create a PIQ list, and it might ask you which reporting template you want to use. Tell the template name that you just created to Copilot.
 <br>
 <div align="center">
 <img src="./images/4.png" width=50%>
 </div>
+<br>
 <br>
 <br>
 
@@ -47,12 +52,14 @@ In some minutes, a tailored priority intelligence questions list is going to be 
 </div>
 <br>
 <br>
+<br>
 
 Hit *Priority Intelligence Requirements* on the left pane, and hit *New PIR* on the top right.
 <br>
 <div align="center">
 <img src="./images/6.png" width=50%>
 </div>
+<br>
 <br>
 <br>
 
@@ -63,12 +70,14 @@ Paste the priority intelligence question that you just grabbed on the *Descripti
 </div>
 <br>
 <br>
+<br>
 
 Copilot is going to analyze the contents that you just created on the privious screen, and going to associate relevant IoCs, Threat Models and Investigations to the PIR. Select any associations that you need to associate. Also, copilot is going to give you recommended tags and key words for the filtering. Select appropriat tags and key words so you can manage the PIR efficiently. Hit *Next*.
 <br>
 <div align="center">
 <img src="./images/8.png" width=50%>
 </div>
+<br>
 <br>
 <br>
 
@@ -79,12 +88,14 @@ If you hit *Generate Analytics Process*, Copilot is going to analyze the content
 </div>
 <br>
 <br>
+<br>
 
 You can also select output channels for the PIR. Let’s select *Email* for now, and specify a receiver. Hit *Next*.
 <br>
 <div align="center">
 <img src="./images/10.png" width=50%>
 </div>
+<br>
 <br>
 <br>
 
@@ -95,12 +106,15 @@ If all settings are ok, you should hit *Create PIR*.
 </div>
 <br>
 <br>
+<br>
 
 The PIR is created. The output is going to be emailed to the specified receiver with the defined cadence.
 <br>
 <div align="center">
 <img src="./images/12.png" width=50%>
 </div>
+<br>
+<br>
 <br>
 <br>
 <br>
