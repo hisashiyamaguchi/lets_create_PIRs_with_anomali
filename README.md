@@ -5,6 +5,7 @@ Priority Intelligence Requirements (PIRs) serve as the strategic foundation of a
 The article here is a quick guide how you can implement your PIRs with ThreatStream Next-Gen - Let’s get started!
 <br>
 <br>
+<br>
 
 
 ## Create your priority intelligence questions list
@@ -54,6 +55,8 @@ In some minutes, a tailored priority intelligence questions list is going to be 
 <br>
 <br>
 
+
+## Creat your PIR
 Hit *Priority Intelligence Requirements* on the left pane, and hit *New PIR* on the top right.
 <br>
 <div align="center">
